@@ -26,8 +26,8 @@ Frontend
 React.js
 Axios
 Bootstrap 5
-Backend
 
+Backend
 Node.js
 Express.js
 MySQL
@@ -36,6 +36,7 @@ Other
 
 Custom short URL generator
 IP & platform click and timestamp logging
+
 📸 Screenshots
 Login page: 
 <img width="809" height="425" alt="image" src="https://github.com/user-attachments/assets/9c700a2d-5640-48fd-a1e2-9b5653c556fe" />
